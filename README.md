@@ -12,7 +12,7 @@ Configuration: You can add items in the config.lua to be given to the user rando
 
 Installation:
 
-    1. Just download the [resource](https://github.com/1NF1N17Y20/infinity_hobomode) <== DOWNLOAD
+    1. Just download the resource (https://github.com/1NF1N17Y20/infinity_hobomode) <== DOWNLOAD
     2. Drag it into you're resources folder.
     3. Put ensure infinity_hobomode into the .cfg
     4. Enjoy!
